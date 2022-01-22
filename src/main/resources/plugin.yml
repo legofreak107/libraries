@@ -1,0 +1,4 @@
+name: Libraries
+version: '${project.version}'
+main: net.desertion.libraries.Libraries
+api-version: 1.17
